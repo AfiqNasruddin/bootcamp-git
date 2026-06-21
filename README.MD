@@ -2,3 +2,5 @@
 #Sesi Git 1
 ## Tujuan
 Belajar git workflow local
+# ## Senarai Arahan
+# - git init / git add / git commit
