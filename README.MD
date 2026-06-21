@@ -1,4 +1,4 @@
-# Bootcamp DevOps — Repositori Latihan
+# Projek Bootcamp Git 2026 — Repositori Latihan
 #Bootcamp Git Project
 #Sesi Git 1
 ## Tujuan
