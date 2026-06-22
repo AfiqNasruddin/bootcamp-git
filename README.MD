@@ -7,3 +7,4 @@ Belajar git workflow local
 # - git init / git add / git commit
 ## Tarikh
  Diubah dari laptop
+## Diubah dari salinan kedua
